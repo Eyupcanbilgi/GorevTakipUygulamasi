@@ -16,11 +16,12 @@ public class Main {
             System.out.println("0 - Çıkış");
             System.out.print("Seçim: ");
             int secim = scanner.nextInt();
-            scanner.nextLine(); // Enter yakalama
+            scanner.nextLine(); // Enter yakalama.aaaaaaa
+            
 
             switch (secim) {
                 case 1:
-                    System.out.print("Görev başlığı: ");
+                    System.out.print("Görev başlığı: "); //eee
                     String baslik = scanner.nextLine();
                     manager.addTask(baslik);
                     break;
