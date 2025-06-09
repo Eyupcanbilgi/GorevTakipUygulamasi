@@ -24,3 +24,14 @@ Bu proje, Java dili ile yazılmış bir görev takip uygulamasıdır.
 ## Proje Geliştirici
 - Ad Soyad: [Eyüpcan Bilgin]
 - Email: [eyupcanbilgin36@gmail.com]
+
+## Uygulamayı Çalıştırma
+
+Jar dosyasını indirdikten sonra terminale şu komutu yaz:
+
+```bash
+java -jar GorevTakipUygulamasi.jar
+
+
+
+
